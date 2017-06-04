@@ -1,2 +1,13 @@
 # blog-universidad
-proyecto estudiantil
+
+[descripcion del proyecto]
+
+[instalacion]
+-requisitos
+-encargados del proyecto
+
+
+[usage]
+[documentacion]
+[roadmap]
+[license]
